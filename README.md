@@ -7,3 +7,5 @@ the implementation of the paper 'Deep &amp; Cross Network for Ad Click Predictio
 还容易过拟合
 
 不想调参了，，就先放这把。。
+
+数据集：请自行查阅FM下的data
